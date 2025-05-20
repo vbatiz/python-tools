@@ -11,3 +11,5 @@ Abrir índice usando **Google Colab**: [![Colab](https://colab.research.google.c
 [Kaggle Learn](https://www.kaggle.com/learn)
 
 [W3Schools](https://www.w3schools.com/)
+
+[Hugging Face](https://huggingface.co/)
